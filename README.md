@@ -1,0 +1,1 @@
+ Initially this sandbox will be similar to the "Beat the Boss" games where we will have a 3D world but viewing from fixed camera, similar to a sitcom.  Eventually I want to allow for camera movement in a full 3D world.
